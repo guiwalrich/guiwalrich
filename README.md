@@ -1,20 +1,20 @@
 # Guilherme
 
-**Back-End Developer** &nbsp;|&nbsp; Engenheiro de Software em formação 🎓
+**Back-End Developer** &nbsp;|&nbsp; Engenharia de Software (Gran Faculdade)
 
 [![Open to Work](https://img.shields.io/badge/Status-Open_to_Work-00C853?style=flat-square)](https://linkedin.com/in/guilhermecode)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermecode)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lerichlesss@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-2E7D32?style=flat-square&logo=googlechrome&logoColor=white)](https://portifolio-guiwalrich.vercel.app/)
 
 ---
 
-### 🚀 Sobre mim
+### Sobre mim
 
-Desenvolvedor Back-End focado na criação de APIs escaláveis, arquitetura de software e sistemas eficientes. Atualmente cursando Engenharia de Software pela Gran Faculdade e aprofundando conhecimentos no ecossistema Node.js, bancos de dados e microsserviços na nuvem.
+Desenvolvedor Back-End com experiência prática em manutenção e evolução de sistemas em produção (incluindo código legado em PHP). Atualmente cursando Engenharia de Software e focado na construção de APIs RESTful escaláveis, arquitetura de software e bancos de dados relacionais com Node.js, TypeScript e Docker.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Linguagens & Runtimes**
 <p>
@@ -29,18 +29,8 @@ Desenvolvedor Back-End focado na criação de APIs escaláveis, arquitetura de s
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
 </p>
 
-**DevOps & Cloud**
+**Ferramentas & Infraestrutura**
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
-
----
-
-### 📌 Destaques & Projetos
-
-*(Seção opcional: insira aqui 2 a 3 projetos principais com links para o repositório)*
-
-- 🔹 **[Nome do Projeto 1](link-do-repositorio)** — Breve descrição em uma linha do que o projeto faz. `Node.js` `PostgreSQL` `Docker`
-- 🔹 **[Nome do Projeto 2](link-do-repositorio)** — Breve descrição em uma linha do que o projeto faz. `TypeScript` `Prisma`
